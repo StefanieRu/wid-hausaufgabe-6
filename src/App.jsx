@@ -1,5 +1,5 @@
-import Typography from "@mui/material/Typography";
+import Reframe from "./Reframe";
 function App() {
-  return <Typography variant="h2">Hello React + MUI!</Typography>;
+  return <Reframe />;
 }
 export default App;
